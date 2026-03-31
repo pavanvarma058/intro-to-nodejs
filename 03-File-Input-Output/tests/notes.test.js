@@ -37,7 +37,7 @@ test("getAllNotes should return all notes from the database", async () => {
   expect(result).toEqual(db.notes);
 });
 
-test("removeNotes should remove a note by id and return the id", async () => {
+test("removeNotes should remove a note by id in the database and return the id", async () => {
   const notes = [
     { id: 1, content: "Note 1", tags: ["tag1"] },
     { id: 2, content: "Note 2", tags: ["tag2"] },
