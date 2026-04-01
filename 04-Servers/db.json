@@ -1,0 +1,14 @@
+{
+  "notes": [
+    {
+      "tags": ["personal", "important"],
+      "id": 1774864360292,
+      "content": "This is my first note"
+    },
+    {
+      "tags": ["work"],
+      "id": 1774864360293,
+      "content": "This is my second note"
+    }
+  ]
+}
